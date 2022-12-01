@@ -1,5 +1,5 @@
 # Face-Classifier
-### A face shape classifier using transformer <br />
+### A face shape classifier using swin transformer <br />
 
 Complete Introduction about Methodology, literature review and results can be found in the presentation
 
