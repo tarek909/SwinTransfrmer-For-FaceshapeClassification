@@ -1,5 +1,8 @@
 # Face-Classifier
 ### A face shape classifier using transformer <br />
+
+Complete Introduction about Methodology, literature review and results can be found in the presentation
+
 Here is the link to the colab notebook: <br />
 https://colab.research.google.com/drive/1iTg2fEgfBId9hz64ZkmUZjGFKKu33Qd7?usp=sharing <br />
 Here are the links to the models: <br />
